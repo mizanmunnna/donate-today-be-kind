@@ -104,17 +104,44 @@ body{
 .food{
 width:33.33%;
 background-color: rgb(233, 237, 241);
+margin: 20px;
+    padding:40px 15px; 
+    border-radius: 8px;
 }
 .shelter{
     width:33.33%;
     background-color: rgb(245, 222, 222);
+    margin: 20px;
+    padding:40px 15px; 
+    border-radius: 8px;
 }
 .education{
     width:33.33%;
     background-color: rgb(241, 220, 192);
+    margin: 20px;
+    padding:40px 15px; 
+    border-radius: 8px;
 }
 .plans-heading{
     font-size: 22px;
     font-weight: 800;
 
+}
+.footer-main{
+    background-color: rgb(1, 1, 24);
+    height: 150px;
+    
+}
+.footer-motto{
+    color: rgb(170, 15, 15);
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size:30px;
+    margin-top: 20px;
+    padding-top: 40px;
+}
+.footer-line{
+    color: white;
+    text-align: center;
+    font-size: x-small;
 }
