@@ -1,0 +1,86 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    
+}
+.header-part{
+    text-align: center;
+    color: rgb(252, 252, 252);
+    background-image: url(images/donation6.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header-heading{
+    font-size: 50px;
+    padding-top: 90Px;
+}
+.button{
+text-decoration: none;
+color:rgb(252, 252, 252);
+font-weight: 600;
+background-color: tomato;
+padding: 8px 25px;
+border-radius: 5px;
+}
+.donate-today{
+    margin-top: 120px;
+    text-align: center;
+    
+   
+}
+.donate-heading{
+    
+    font-weight: 600;
+    font-size:35px;
+}
+#donation-offering{
+    color: gray
+}
+.donation-amount{
+    color: rgb(61, 59, 59);
+    display: flex;
+    margin-left: 280px;
+    margin-right: 280px;
+    
+}
+.amount-smallbox{
+    width: 20%;
+    background-color:rgb(240, 231, 231);
+    margin: 20px;
+   padding:40px 20px; 
+   border-radius: 8px;
+   color: gray;
+   font-size: 30px;
+   font-weight: 600;
+    
+}
+.amount-bigbox{
+    width: 20%;
+    background-color:rgb(240, 231, 231);
+    margin: 20px;
+   padding:40px 15px; 
+   border-radius: 8px;
+   color: gray;
+   font-size: 30px;
+   font-weight: 600;
+}
+.amount-differentbox{
+    width: 20%;
+    background-color:rgb(255, 231, 231);
+    margin: 20px;
+   padding:40px 20px; 
+   border-radius: 8px;
+   color: rgb(223, 21, 21);
+   font-size: 30px;
+   font-weight: 600;
+   border: 2px solid red;
+}
+.other-amount{
+    margin-bottom: 20px;
+   border-style: hidden;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
