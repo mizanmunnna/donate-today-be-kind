@@ -127,6 +127,45 @@ margin: 20px;
     font-weight: 800;
 
 }
+.update-heading{
+    
+    font-weight: 600;
+    font-size:35px;
+    text-align: center;
+}
+.update-offering{
+    color: gray;
+    text-align: center;
+}
+.form{
+    text-align: center;
+    background-color: rgb(240, 219, 191);
+    margin-left: 280px;
+    margin-right: 280px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    border-radius: 5px;
+    
+}
+.email{
+    background-color: rgb(231, 226, 226);
+    width: 300px;
+    height: 30px;
+    font-size: larger;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.submit{
+    background-color: tomato;
+    color: white;
+    border-end-end-radius: 5px;
+    border-top-right-radius: 5px;
+    border-color:tomato;
+    width: 100px;
+    height: 35px;
+    padding-top: 5px;
+    
+}
 .footer-main{
     background-color: rgb(1, 1, 24);
     height: 150px;
@@ -137,7 +176,7 @@ margin: 20px;
     font-family:'Times New Roman', Times, serif;
     text-align: center;
     font-size:30px;
-    margin-top: 20px;
+    margin-top: 120px;
     padding-top: 40px;
 }
 .footer-line{
